@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CustomRootMotionScale\\Module.CustomRootMotionScale.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CustomRootMotionScale\\CustomRootMotionScale.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CustomRootMotionScale\\CustomRootMotionScaleBPLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CustomRootMotionScale\\V2rmCharacterMovementComponent.cpp.obj"
+	]
+}
