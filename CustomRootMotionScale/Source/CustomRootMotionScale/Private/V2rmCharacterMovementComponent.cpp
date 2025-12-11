@@ -24,10 +24,6 @@ FVector UV2rmCharacterMovementComponent::CalcAnimRootMotionVelocity(const FVecto
 
 
 
-			FString DebugString = FString::Printf(TEXT("Local Direction X: %f, Y: %f, Z: %f"), UpdatedWorldDirection.X, UpdatedWorldDirection.Y, UpdatedWorldDirection.Z);
-			FString DebugString2 = FString::Printf(TEXT("Local Direction X: %f, Y: %f, Z: %f"), RootMotionDeltaMove.X, RootMotionDeltaMove.Y, RootMotionDeltaMove.Z);
-			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Yellow, DebugString);
-			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, DebugString2);
 
 
 
