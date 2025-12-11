@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
+	"VersionName": "0.11",
 	"FriendlyName": "CustomRootMotionScale",
-	"Description": "Change Root Motion Scale by float or vector",
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Klapassachon",
